@@ -8,11 +8,12 @@
 ## 온라인 코드 리뷰 과정
 * [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
 
+
 ##Step2 구현 기능 목록
 * 핵심로직 - RacingGame
-  . 클래스 생성
-  . move
-  . random
+  - 클래스 생성
+  - move
+  - random
 * UI로직
-  . 입력 - InputView
-  . 출력 - ResultView
+  - 입력 - InputView
+  - 출력 - ResultView
